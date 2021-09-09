@@ -213,16 +213,3 @@ content {
   height: 100px;
 }
 
-#projects {
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-}
-
-.project-title {
-  text-align: center;
-}
-
-#video-container {
-  align-self: center;
-}
